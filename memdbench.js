@@ -47,7 +47,7 @@ var globalConfig = {
   host: "127.0.0.1",
 
   // Memcached port (for use with 3rd eden)
-  memcachedPort: 11210,
+  memcachedPort: 11211,
 
   // Default value size to use
   valueSize: 30,
